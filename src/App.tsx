@@ -12,7 +12,7 @@ interface TeamProps {
 }
 
 function Welcome() {
-  return <h1>March Madness website, i'll change this later</h1>;
+  return <h1>NCAA Teams</h1>;
 }
 
 class Team extends React.Component<TeamProps> {
